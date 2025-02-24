@@ -1,2 +1,2 @@
-# Chatbot-intern-
-Developed a user-friendly virtual assistant with Python and automation tools.
+# chatbot-conversation
+Engaging in casual conversation to entertain and engage users.Like small conversation 
